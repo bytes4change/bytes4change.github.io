@@ -4,6 +4,9 @@ main:
 
   - title: "Our Team"
     url: /team
+  
+  - title: "Get Involved"
+    url: /join
 
   - title: "Home"
     url: /
