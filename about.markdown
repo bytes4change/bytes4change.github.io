@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-As students, we've seen that there are many problems in the world that need to be solved. We believe that technology can be used to solve these problems, and we want to use our skills to make a difference. We are a group of students from Barrington, RI who are passionate about using technology to make a difference in the world.
+We are a group of high school students who are passionate about computer science and have seen the impacts it can make on any community through continuous effort. We are dedicated to making a difference using technology as well as learning something and honing our skills along the way. All work we do is nonprofit, and we volunteer our time and effort into this projecct because we truly believe in our cause.
