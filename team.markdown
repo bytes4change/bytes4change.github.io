@@ -8,6 +8,9 @@ permalink: /team/
 - Siddharth Gupta
 - Troy Tian
 
+## Technical Developers
+- Matthew Clegg
+- Aajinkya Naik
 
 ## Content Developers
 - Matthew Tian
