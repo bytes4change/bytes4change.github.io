@@ -4,7 +4,7 @@ title: Our Team
 permalink: /team/
 ---
 
-## Directors
+## Founding Directors
 - Siddharth Gupta
 - Troy Tian
 
