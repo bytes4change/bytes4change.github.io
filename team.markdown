@@ -12,5 +12,5 @@ permalink: /team/
 - Matthew Clegg
 - Aajinkya Naik
 
-## Content Developers
+## Content Developer
 - Matthew Tian
